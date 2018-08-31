@@ -1,0 +1,14 @@
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\obj\Debug\netcoreapp2.1\SPACore2Angular6.csprojAssemblyReference.cache
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\obj\Debug\netcoreapp2.1\SPACore2Angular6.csproj.CoreCompileInputs.cache
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\bin\Debug\netcoreapp2.1\SPACore2Angular6.deps.json
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\bin\Debug\netcoreapp2.1\SPACore2Angular6.runtimeconfig.json
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\bin\Debug\netcoreapp2.1\SPACore2Angular6.runtimeconfig.dev.json
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\bin\Debug\netcoreapp2.1\SPACore2Angular6.dll
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\bin\Debug\netcoreapp2.1\SPACore2Angular6.pdb
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\obj\Debug\netcoreapp2.1\SPACore2Angular6.RazorAssemblyInfo.cache
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\obj\Debug\netcoreapp2.1\SPACore2Angular6.RazorAssemblyInfo.cs
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\obj\Debug\netcoreapp2.1\SPACore2Angular6.AssemblyInfoInputs.cache
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\obj\Debug\netcoreapp2.1\SPACore2Angular6.AssemblyInfo.cs
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\obj\Debug\netcoreapp2.1\SPACore2Angular6.RazorTargetAssemblyInfo.cache
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\obj\Debug\netcoreapp2.1\SPACore2Angular6.dll
+D:\Freelance\Practice\Visual Studio 2017\Core 2 Angular 6\Code\SPACore2Angular6\SPACore2Angular6\obj\Debug\netcoreapp2.1\SPACore2Angular6.pdb
